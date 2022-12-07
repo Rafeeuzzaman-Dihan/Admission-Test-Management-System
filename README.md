@@ -1,1 +1,1 @@
-An Admission Test Management System application created by C Sharp.
+An Admission Test Management System application created by C#
